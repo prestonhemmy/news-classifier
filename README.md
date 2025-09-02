@@ -13,11 +13,11 @@ This project implements a state-of-the-art text classification system using fine
 
 ### Key Features
 
-- 🚀 **State-of-the-art NLP**: Fine-tuned BERT/DistilBERT models with transfer learning
-- ⚡ **Production-Ready**: Optimized for ~20-50ms inference time per article
-- 🎨 **Interactive Web App**: Real-time classification with confidence scores
-- 📊 **Interpretability**: Attention visualization to understand model decisions
-- 📈 **Comprehensive Metrics**: Precision, recall, F1-score per category
+- 🚀 **State-of-the-art NLP**: Fine-tuned BERT (base uncased) model with transfer learning
+- ⚡ **Production-Ready**: Optimized for ~20-50ms inference time per article <!-- TODO: Update with true results after testing -->
+- 🎨 **Interactive Web App**: Real-time classification with confidence scores <!-- TODO -->
+- 📊 **Interpretability**: Attention visualization to understand model decisions <!-- TODO -->
+- 📈 **Comprehensive Metrics**: Precision, recall, F1-score per category <!-- TODO -->
 - 🔧 **Modular Architecture**: Easy to extend and maintain
 
 ## 📋 Table of Contents
@@ -26,9 +26,9 @@ This project implements a state-of-the-art text classification system using fine
 - [Quick Start](#-quick-start)
 - [Project Structure](#-project-structure)
 - [Dataset](#-dataset)
-- [Model Architecture](#-model-architecture)
-- [Training](#-training)
-- [Evaluation](#-evaluation)
+- [Model Architecture](#-model-architecture) <!-- TODO -->
+- [Training](#-training)                     <!-- TODO -->
+- [Evaluation](#-evaluation)                 <!-- ... -->
 - [Web Application](#-web-application)
 - [API Usage](#-api-usage)
 - [Results](#-results)
